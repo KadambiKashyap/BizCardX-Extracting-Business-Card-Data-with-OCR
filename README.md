@@ -1,5 +1,4 @@
 # BizCardX
----
 
 This repository hosts the code for BizCardX, a Streamlit application developed as part of a project to automate the extraction and management of business card information. The application employs easyOCR for text extraction and integrates with MySQL for database management.
 
